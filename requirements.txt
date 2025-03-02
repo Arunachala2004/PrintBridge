@@ -1,6 +1,5 @@
-qrcode
-pillow
 streamlit
-io
-tempfile
-platform
+qrcode[pil]
+pillow
+pywin32  # Only required for Windows printing
+pycups   # Only required for Linux printing
