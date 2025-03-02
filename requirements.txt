@@ -2,3 +2,5 @@ qrcode
 pillow
 streamlit
 io
+tempfile
+platform
